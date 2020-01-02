@@ -10,5 +10,5 @@ curl -o sdk.js.map https://static.line-scdn.net/liff/edge/2.1/sdk.js.map
 ## Commands
 
 ```bash
-npx shuji sdk.js sdk.js.map
+npx shuji sdk.js sdk.js.map -o ./dist
 ```

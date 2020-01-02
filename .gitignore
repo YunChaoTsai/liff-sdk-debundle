@@ -29,3 +29,5 @@ yarn-error.log*
 
 package-lock.json
 tslint.json
+
+/dist
