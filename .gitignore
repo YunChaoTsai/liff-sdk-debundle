@@ -31,3 +31,6 @@ package-lock.json
 tslint.json
 
 /dist
+
+sdk.js
+sdk.js.map
