@@ -17,3 +17,13 @@ npm run debundle
 [Debundle tool](https://www.npmjs.com/package/@jingsam/shuji)
 
 [Origin branch](https://github.com/paazmaya/shuji)
+
+```bash
+npm install shuji
+npm uninstall shuji
+```
+
+```bash
+npm install @jingsam/shuji
+npm uninstall @jingsam/shuji
+```
