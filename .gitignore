@@ -30,7 +30,7 @@ yarn-error.log*
 package-lock.json
 tslint.json
 
-/dist
+# /dist
 
 sdk.js
 sdk.js.map
